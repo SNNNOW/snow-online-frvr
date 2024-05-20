@@ -13,7 +13,7 @@ custom_status = os.getenv("custom_status") #If you don't need a custom status on
 # Custom activity with large image and buttons
 custom_activity = {
     "name": "Hunain Store",
-    "type": 1,  # 0 for playing
+    "type": 0,  # 0 for playing
     "assets": {
         "large_image": "https://images-ext-1.discordapp.net/external/9ODrxPezNtClbm-tKUfEujZwa5vSMgMhakM0OpHU5Ow/%3Fsize%3D1024%26width%3D0%26height%3D320/https/cdn.discordapp.com/icons/1178390363027816619/a_4bdc0cb13ba8c32293831f96cfb717fb.gif?width=450&height=450",
         "large_text": "Hunain Store | .gg/hunainstore"
